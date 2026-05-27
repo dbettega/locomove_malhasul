@@ -1,0 +1,25 @@
+{
+  "name": "LOCOMOVE",
+  "short_name": "LOCOMOVE",
+  "description": "Gestão de Eventos Ferroviários - Rumo Malha Sul",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#0d1f35",
+  "background_color": "#0a1628",
+  "start_url": "/locomove-pwa/",
+  "scope": "/locomove-pwa/",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
